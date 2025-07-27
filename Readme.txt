@@ -14,3 +14,8 @@ This is my personal portfolio website showcasing selected projects, skills, and 
 - Bootstrap   
  
 
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
+
